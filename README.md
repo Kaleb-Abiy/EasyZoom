@@ -8,11 +8,13 @@
 ## Quick Start
 
 ```
-$pip install package-name
+$pip install Zoom-py-client
 ```
 
 ```
-clinet_instance = Zoom()
+from zoom_client.client import Client
+
+client_instance = Client()
 ```
 
 ## Methods
