@@ -8,11 +8,11 @@
 ## Quick Start
 
 ```
-$pip install Zoom-py-client
+$pip install EasyZoom
 ```
 
 ```
-from zoom_client.client import Client
+from easy_zoom.client import Client
 
 client_instance = Client()
 ```
